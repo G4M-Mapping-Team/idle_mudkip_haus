@@ -1,1 +1,6 @@
-Good news! idle_mudkip_haus_v5 and v6-Development are now open source under the terms of the GNU GPL v2! 
+Good news! idle_mudkip_haus_v5 and v6-Development are now open source under the terms of the GNU GPL v2!
+Explanation of files:
+idle_mudkip_haus_v5.vmf : The base for V5.
+idle_mudkip_haus_v5(3).vmf  : Previous development version
+idle_mudkip_haus_v5(3)-corrupt.vmf  : Corrupt, but more developed v5(3) version
+idle_mudkip_haus_v5(3)_BBSPB1.vmf  : EFruit's V6 Development branch, made public. 
